@@ -1,6 +1,6 @@
 *English*
 
-# Simples projects just to pratice
+# Simple projects just to pratice
 
 - All projects folders has a readme.md file attached. Inside, contains the requeriments to init every single project.
 
