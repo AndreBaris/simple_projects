@@ -23,7 +23,7 @@ Just input the website name and the links.txt file will be add to you on the sam
 
 # Imprime todos links de um site
 
-Esse script procura por links, páginas de navegação (ex: www.github.com/"exemplo"), e imprime em um arquivo .txt
+Esse script procura por links, páginas de navegação (ex: www.github.com/'exemplo'), e imprime em um arquivo .txt
 
 ### Modulos utilizados
 - requests
